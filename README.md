@@ -8,16 +8,13 @@ This is the code repository for [Mastering QuickBooks 2022 - Third Edition], pub
 Intuit QuickBooks is an accounting software package that helps small business owners to manage all their bookkeeping tasks independently.
 
 This book covers the following exciting features: 
-* Discover the new features of QBO and find out what the QBO line-up offers
 * Get to grips with bookkeeping concepts and the typical bookkeeping and financial accounting cycle
 * Set up QuickBooks for both product-based and service-based businesses
+* Discover the new features of QBO and find out what the QBO line-up offers
 * Track everything from billable and non-billable time and expenses to profit
 * Generate key financial reports for accounts, customers, jobs, and invoice items
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800204043) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+* Understand the complete QuickBooks payroll process and track payments made to 1099 contractors
+* Manage various bank and credit card accounts linked to your business
 
 
 ## Instructions and Navigations
@@ -35,12 +32,6 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1-18     | QuickBooks Online 2021              | Windows                            |
 
-
-
-### Related products <Other books you may enjoy>
-* Learn Algorithmic Trading [[Packt]](https://www.packtpub.com/product/learn-algorithmic-trading-fundamentals-of-algorithmic-trading/9781789348347?utm_source=github&utm_medium=repository&utm_campaign=9781789348347) [[Amazon]](https://www.amazon.com/dp/178934834X)
-
-* Hands-On Microsoft Teams [[Packt]](https://www.packtpub.com/product/hands-on-microsoft-teams/9781839213984?utm_source=github&utm_medium=repository&utm_campaign=9781839213984) [[Amazon]](https://www.amazon.com/dp/1839213981)
 
 ## Get to Know the Author
 **Crystalynn Shelton**
