@@ -1,0 +1,7 @@
+*InvoiceNo,*Customer,*InvoiceDate,*DueDate,Terms,Location,Memo,Item(Product/Service),ItemDescription,ItemQuantity,ItemRate,*ItemAmount,Taxable,TaxRate,Service Date
+1001,Amy's Bird Sanctuary,15/10/2020,14/11/2020,Net 30,,My Memo,Landscaping:Trimming,,1,7,7,Y,5%,13/10/2020
+1001,Amy's Bird Sanctuary,,,,,,Design:Design,New Garden Design,12,71,852,Y,,
+1001,Amy's Bird Sanctuary,,,,,,Landscaping:Trimming,,5,111,555,Y,,13/10/2020
+1001,Amy's Bird Sanctuary,,,,,,Landscaping:Gardening,General maintenance,14,11,154,Y,,
+1002,Cool Cars,15/10/2020,15/10/2020,Due on receipt,,,Landscaping:Trimming,,16,41,656,Y,10%,13/10/2020
+1002,Cool Cars,,,,,,Landscaping:Soil,Supplies for flower beds,1,54,54,N,,13/10/2020
