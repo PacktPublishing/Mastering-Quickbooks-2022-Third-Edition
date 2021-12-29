@@ -1,8 +1,6 @@
-# Mastering QuickBooks 2021 - Second Edition
+# Mastering QuickBooks 2022 - Third Edition
 
-<a href="https://www.packtpub.com/product/mastering-quickbooks-2021-second-edition/9781800204041?utm_source=github&utm_medium=repository&utm_campaign=9781800204041"><img src="https://static.packt-cdn.com/products/9781800204041/cover/smaller" alt="Mastering QuickBooks 2021 - Second Edition" height="256px" align="right"></a>
-
-This is the code repository for [Mastering QuickBooks 2021 - Second Edition](https://www.packtpub.com/product/mastering-quickbooks-2021-second-edition/9781800204041?utm_source=github&utm_medium=repository&utm_campaign=9781800204041), published by Packt.
+This is the code repository for [Mastering QuickBooks 2022 - Third Edition], published by Packt.
 
 **The ultimate guide to bookkeeping and QuickBooks Online**
 
