@@ -42,3 +42,7 @@ is the published author of the Amazon Bestseller Mastering QuickBooks 2020. She 
 * [Mastering QuickBooks 2020](https://www.packtpub.com/product/mastering-quickbooks-2020/9781789955101?utm_source=github&utm_medium=repository&utm_campaign=9781789955101)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803244280">https://packt.link/free-ebook/9781803244280 </a> </p>
